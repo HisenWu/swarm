@@ -47,4 +47,4 @@ An [Open-Source Planning Process](https://github.com/docker/swarm/wiki/Open-Sour
 | Platform Version | Swarm Milestone | Project Page | 
 |------------------|-----------------|--------------|
 | Docker 1.6.0 | [0.2.0](https://github.com/docker/swarm/milestones/0.2.0) | [Project Page](https://github.com/docker/swarm/wiki/0.2.0-Milestone-Project-Page) | 
-| Docker 1.7.0 | [1.0.0](https://github.com/docker/swarm/milestones/1.0.0) | [Project Page](https://github.com/docker/swarm/wiki/1.0.0-Milestone-Project-Page) | 
+| Docker 1.7.0 | [1.0.0](https://github.com/docker/swarm/milestones/1.0.0) | [Project Page](https://github.com/docker/swarm/wiki/1.0.0-Milestone-Project-Page) | ....
